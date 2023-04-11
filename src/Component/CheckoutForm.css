@@ -82,3 +82,32 @@ input[type="radio"] {
 button {
     text-align: center;
 }
+/* ... previous styles ... */
+
+.alert-success {
+    margin-top: 1rem;
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+    color: #155724;
+  }
+  
+  .my-alert .close {
+    color: #155724;
+  }
+  
+  .my-alert .close:hover {
+    color: #155724;
+  }
+  
+  .my-alert hr {
+    border-top-color: #c3e6cb;
+  }
+  
+  .my-alert .alert-link {
+    color: #155724;
+  }
+  
+  .my-alert .alert-link:hover {
+    color: #155724;
+  }
+  
